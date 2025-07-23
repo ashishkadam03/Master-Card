@@ -13,11 +13,11 @@
 
 ## 📸 Preview
 
-<p align="center">
-  <a href="https://ashishkadam03.github.io/Master-Card/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ashishkadam03/Master-Card/main/images/master-card-preview.png" width="600" alt="Master Card Preview"/>
-  </a>
-</p>
+### 💳 Card Front
+<img src="images/master-card-front.png" alt="Master Card Front" width="500"/>
+
+### 🔒 Card Back
+<img src="images/master-card-back.png" alt="Master Card Back" width="500"/>
 
 
 ---
