@@ -14,7 +14,7 @@
 ## 📸 Preview
 
 ### 💳 Card Front
-<img src="images/ashishkadam03.github.io_Master-Card_(Nest Hub Max) .png" alt="Master Card Front" width="500"/>
+<img src="images/ashishkadam03.github.io_Master-Card_(Nest Hub Max).png" alt="Master Card Front" width="500"/>
 
 ### 🔒 Card Back
 <img src="images/ashishkadam03.github.io_Master-Card_(Nest Hub Max) (1).png" alt="Master Card Back" width="500"/>
