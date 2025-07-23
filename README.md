@@ -1,8 +1,14 @@
-<h1 align="center">💳 Stylish Master Card UI</h1>
+<h1 align="center">💳✨ Stylish <span style="animation: pulse 2s infinite;">Master Card UI</span> ✨💳</h1>
 
 <p align="center">
-  A modern, glassy Master Card design built purely with HTML & CSS. <br>
-  Smooth, elegant, and responsive — a great front-end project to showcase your creativity and skills! ✨
+  <img src="https://emoji.discourse-cdn.com/twitter/sparkles.gif?v=12" alt="sparkle" width="24"/>
+  A modern, glassy <strong>Master Card</strong> design built purely with <code>HTML</code> & <code>CSS</code>. <br>
+  <img src="https://emoji.discourse-cdn.com/twitter/rocket.gif?v=12" alt="rocket" width="24"/>
+  Smooth, elegant, and responsive — a perfect front-end project to showcase your creativity and CSS wizardry! 🧙‍♂️💡
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🔥+Responsive+UI+Design;💡+Pure+HTML+%2B+CSS;🚀+Creative+Frontend+Project;&center=true&width=400&height=45">
 </p>
 
 <p align="center">
